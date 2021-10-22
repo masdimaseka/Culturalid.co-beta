@@ -1,7 +1,7 @@
 const bg = document.querySelector(".main-bg");
 
 function printImage(imgName) {
-  bg.setAttribute("style", `background-image: url(../img/bg/${imgName}.png)`);
+  bg.setAttribute("style", `background-image: url(img/bg/${imgName}.png)`);
 }
 
 function getImgName() {
