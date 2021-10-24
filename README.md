@@ -11,4 +11,4 @@ I make this website use :
 - Bootstrap
 - GSAP (for the animation)
 
-#Thankyou
+#Thankyou :grin:
