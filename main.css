@@ -215,3 +215,20 @@ footer img:hover {
     line-height: 32px;
   }
 }
+
+.checkout {
+  border: solid 1px black;
+  width: 50%;
+  padding: 10px 5px;
+  border-radius: 16px;
+  text-align: center;
+  margin: 10px;
+}
+
+.checkout img {
+  width: 50%;
+}
+
+.main-button a {
+  text-decoration: none;
+}
